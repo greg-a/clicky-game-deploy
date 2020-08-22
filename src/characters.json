@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Bojack",
+    "image": "./img/bojack.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mr Peanutbutter",
+    "image": "./img/mr_peanutbutter.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Diane",
+    "image": "./img/diane.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Princess Caroline",
+    "image": "./img/princess_caroline.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Flip McVicker",
+    "image": "./img/Flip_McVicker.webp"
+  },
+  {
+    "id": 6,
+    "name": "Margo Martindale",
+    "image": "./img/margo.png"
+  },
+  {
+    "id": 7,
+    "name": "Judah",
+    "image": "./img/judah.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Kelsey",
+    "image": "./img/Kelsey.webp"
+  },
+  {
+    "id": 9,
+    "name": "Assistants",
+    "image": "./img/assistants.webp"
+  },
+  {
+    "id": 10,
+    "name": "Rutabaga",
+    "image": "./img/Rutabaga.webp"
+  },
+  {
+    "id": 11,
+    "name": "Sarah Lynn",
+    "image": "./img/sarah_lynn.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Todd",
+    "image": "./img/todd.jpg"
+  }
+]
